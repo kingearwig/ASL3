@@ -1,0 +1,2 @@
+user|pass
+admin|$argon2id$v=19$m=102400,t=2,p=8$Ek/1hyqSCylqevx8HvCO4g$E5H3UAvpIt/mL7/gECp6TA
